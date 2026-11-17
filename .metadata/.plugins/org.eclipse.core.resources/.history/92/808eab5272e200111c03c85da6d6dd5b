@@ -1,0 +1,5 @@
+spring.application.name=PathRewritingAPI
+server.port=8080
+
+spring.application.name=api-gateway
+server.port=8080
